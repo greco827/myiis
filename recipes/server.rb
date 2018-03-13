@@ -9,5 +9,5 @@ end
 
 
 service "w3svc" do
-  action [ :enable, :start]
+  action [:enable, :start]
 end
